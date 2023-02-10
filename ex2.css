@@ -1,0 +1,13 @@
+.enregistré{
+    display: flex;
+    gap: 60px;
+}
+.vaccinBtn{
+    padding: 20px;
+    border-radius: 50%;
+}
+.containerEnregistré{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
